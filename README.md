@@ -11,7 +11,7 @@ This Python script allows you to use a sustain pedal with your Arturia MiniLab 3
 You can install the required dependencies using pip:
 
 ```bash
-pip install rtmidi
+pip install python-rtmidi
 ```
 
 ## Usage
